@@ -1,6 +1,6 @@
-package ru.thever4.iit.shedulemanager.model;
+package ru.thever4.iit.shedulemanager.entity.model;
 
-import ru.thever4.iit.shedulemanager.model.enums.DayName;
+import ru.thever4.iit.shedulemanager.entity.model.enums.DayName;
 
 import java.util.ArrayList;
 

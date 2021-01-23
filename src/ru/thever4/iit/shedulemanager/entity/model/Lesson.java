@@ -1,6 +1,6 @@
-package ru.thever4.iit.shedulemanager.model;
+package ru.thever4.iit.shedulemanager.entity.model;
 
-import ru.thever4.iit.shedulemanager.model.enums.Subgroup;
+import ru.thever4.iit.shedulemanager.entity.model.enums.Subgroup;
 
 public class Lesson {
     private int number;

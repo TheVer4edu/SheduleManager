@@ -1,4 +1,4 @@
-package ru.thever4.iit.shedulemanager.model;
+package ru.thever4.iit.shedulemanager.entity.model;
 
 import java.util.ArrayList;
 

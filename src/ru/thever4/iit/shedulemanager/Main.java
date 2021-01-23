@@ -1,12 +1,11 @@
 package ru.thever4.iit.shedulemanager;
 
-import ru.thever4.iit.shedulemanager.model.Lecturer;
-import ru.thever4.iit.shedulemanager.model.Lesson;
-import ru.thever4.iit.shedulemanager.model.Subject;
+import ru.thever4.iit.shedulemanager.entity.model.Lecturer;
+import ru.thever4.iit.shedulemanager.entity.model.Lesson;
+import ru.thever4.iit.shedulemanager.entity.model.Subject;
 import ru.thever4.iit.shedulemanager.feature.rootwindow.view.RootWindow;
 
 import javax.swing.*;
-import java.awt.*;
 
 public class Main {
 

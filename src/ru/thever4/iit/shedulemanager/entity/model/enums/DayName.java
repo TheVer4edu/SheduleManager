@@ -1,4 +1,4 @@
-package ru.thever4.iit.shedulemanager.model.enums;
+package ru.thever4.iit.shedulemanager.entity.model.enums;
 
 public enum DayName {
     monday,

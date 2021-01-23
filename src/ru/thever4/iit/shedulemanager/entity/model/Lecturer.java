@@ -1,4 +1,4 @@
-package ru.thever4.iit.shedulemanager.model;
+package ru.thever4.iit.shedulemanager.entity.model;
 
 public class Lecturer {
     private final String lastName, firstName, secondName;

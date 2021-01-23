@@ -3,7 +3,7 @@ package ru.thever4.iit.shedulemanager;
 import ru.thever4.iit.shedulemanager.model.Lecturer;
 import ru.thever4.iit.shedulemanager.model.Lesson;
 import ru.thever4.iit.shedulemanager.model.Subject;
-import ru.thever4.iit.shedulemanager.view.Window;
+import ru.thever4.iit.shedulemanager.feature.rootwindow.view.RootWindow;
 
 import javax.swing.*;
 import java.awt.*;
@@ -19,15 +19,7 @@ public class Main {
         Lesson lesson = new Lesson(networks, 1);
 
 
-        Window window = new Window("SheduleManager");
-
-        GridBagLayout layout = new GridBagLayout();
-        GridBagConstraints gbc = new GridBagConstraints();
-        window.setLayout(layout);
-
-
-
-        window.display();
+        RootWindow rootWindow = new RootWindow("ScheduleManager");
 
     }
 
